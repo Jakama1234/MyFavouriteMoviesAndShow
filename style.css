@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background: lightgray;
+}
+img {
+    width: 200px;
+    transition: 5s;
+    border-radius: 10%;
+}
+img:hover {
+    transform: rotate(360deg);
+}
+#disclaimer {
+    color: red;
+    font-size: 30px;
+}
+.item {
+    text-align: center;
+    width: 300px;
+    font-size: 50px;
+    background-color: red;
+    border-radius: 10%;
+}
+#movie-container {
+    text-align: center;
+}
